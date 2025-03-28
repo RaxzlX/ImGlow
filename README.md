@@ -1,3 +1,5 @@
+https://github.com/user-attachments/assets/fe4bde35-2647-4fc8-832e-6d789f205bfc
+
 > [!TIP]
 > 
 > Search for `//added`
@@ -28,15 +30,7 @@ void ImGui::StyleColorsDark(ImGuiStyle* dst)
     colors[ImGuiCol_FrameBgHovered] = ImVec4(0.26f, 0.59f, 0.98f, 0.40f);
     colors[ImGuiCol_FrameBgActive] = ImVec4(0.26f, 0.59f, 0.98f, 0.67f);
     colors[ImGuiCol_TitleBg] = ImVec4(0.051f, 0.067f, 0.082f, 0.97f);
-    colors[ImG
-
-https://github.com/user-attachments/assets/d02e7578-b7c5-4007-be1b-05617a53d655
-
-
-
-https://github.com/user-attachments/assets/b9fc0aa3-82ed-4ad7-86ab-668a6b52ea61
-
-uiCol_TitleBgActive] = ImVec4(0.051f, 0.067f, 0.082f, 0.97f);
+    colors[ImGuiCol_TitleBgActive] = ImVec4(0.051f, 0.067f, 0.082f, 0.97f);
     colors[ImGuiCol_TitleBgCollapsed] = ImVec4(0.051f, 0.067f, 0.082f, 0.97f);
     colors[ImGuiCol_MenuBarBg] = ImVec4(0.14f, 0.14f, 0.14f, 1.00f);
     colors[ImGuiCol_ScrollbarBg] = ImVec4(0.02f, 0.02f, 0.02f, 0.53f);
