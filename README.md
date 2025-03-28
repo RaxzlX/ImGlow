@@ -1,6 +1,6 @@
 > [!TIP]
 > 
-> Search for "//added"
+> Search for `//added`
 > This will show you everything that has been added.
 > 
 
